@@ -1,16 +1,22 @@
-# Getting Started with Create React App
+# Calculadora
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p>Calculadora simples.</p>
 
-## Available Scripts
+## 📋 Pré-requisitos
 
-In the project directory, you can run:
+Run:
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Open: [http://localhost:3000](http://localhost:3000)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🛠️ Construído com
+
+<ul>
+  <li>ReactJS</li>
+  <li>Styled Components</li>
+  <li>Chakra UI</li>
+  <li>JAVASCRIPT</li>
+</ul>
+
 
