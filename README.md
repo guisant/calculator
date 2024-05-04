@@ -1,12 +1,7 @@
-<h1 align="center">
-  
-Calculadora
 
-</h1>
 
 <p align="center">
  <a href="#-shorts-summary">Sobre</a> •
- <a href="#-demo">Demo</a> •
  <a href="#-como-executar-o-projeto">Como executar</a> • 
  <a href="#-tecnologias">Tecnologias</a> 
 </p>
@@ -17,12 +12,6 @@ Calculadora
 
 <p>O projeto consiste em uma calculadora simples que permite realizar operações básicas de adição, subtração, multiplicação e divisão. Foi desenvolvido com ReactJS, uma biblioteca JavaScript popular para construir interfaces de usuário interativas e reativas.
 A lógica das operações matemáticas e o tratamento da entrada do usuário foram implementados em JavaScript, permitindo que a calculadora funcione corretamente e exiba os resultados de forma precisa na interface.</p>
-
-<br><br>
-
-## 🔗 Demo
-
-Acesse a demonstração aqui.
 
 <br><br>
 
